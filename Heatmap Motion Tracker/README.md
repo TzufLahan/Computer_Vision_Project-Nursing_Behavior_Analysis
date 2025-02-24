@@ -49,7 +49,7 @@ This analysis can provide valuable insights into the efficiency and effectivenes
 
 A sample video showcasing the results of the heatmap analysis can be included here:  
 
-[![Video Example](video_thumbnail.jpg)](video_link_here)  
+[![Video Example](video_thumbnail.jpg)](Upper Angle 101_trimmed_analyzed_NEW)  
 
 ## Contributors  
 
