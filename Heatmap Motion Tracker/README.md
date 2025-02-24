@@ -49,7 +49,7 @@ This analysis can provide valuable insights into the efficiency and effectivenes
 
 A sample video showcasing the results of the heatmap analysis can be included here:  
 
-[▶ Watch Video](https://github.com/tzuflahan/Computer_Vision_for_Nursing_Behavior_Analysis/raw/main/Upper%20Angle%20101_trimmed_analyzed_NEW.avi)
+[▶ Watch Video](https://github.com/tzuflahan/Computer_Vision_for_Nursing_Behavior_Analysis/Heatmap Motion Tracker/raw/main/Upper%20Angle%20101_trimmed_analyzed_NEW.avi)
 ## Contributors  
 
 This project was developed as part of a data-driven research initiative using Python and OpenCV. 
