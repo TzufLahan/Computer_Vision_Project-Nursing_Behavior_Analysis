@@ -8,13 +8,13 @@ The goal of this project is to gain insights into nurse-patient interactions, as
 
 ## Purpose and Motivation  
 
-In emergency and critical care settings, understanding how nurses interact with patients is crucial for optimizing medical assistance. This project provides a data-driven approach to monitoring nurse activity by:  
+In emergency and critical care settings, analyzing nurse workflows is essential for improving patient care and optimizing hospital operations. This project provides a data-driven approach to studying nurse activity by:
 
-- Identifying high-traffic areas in the patient room.  
-- Detecting time spent in critical zones, such as near the patient’s bed or medical equipment.  
-- Understanding movement patterns that correlate with specific medical interventions.  
-- Improving workflow analysis for better patient care and hospital resource allocation.  
-
+- Evaluating how nurses move and interact within the patient’s room.  
+- Identifying patterns in nurse behavior during different stages of treatment.  
+- Analyzing time spent in key areas, such as near the patient’s bed or medical equipment.  
+- Providing insights into workflow efficiency to enhance hospital resource allocation and patient care strategies.
+- 
 ## How It Works  
 
 1. **Video Processing**  
