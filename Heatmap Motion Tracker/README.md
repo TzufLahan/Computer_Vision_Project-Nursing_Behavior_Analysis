@@ -14,7 +14,7 @@ In emergency and critical care settings, analyzing nurse workflows is essential 
 - Identifying patterns in nurse behavior during different stages of treatment.  
 - Analyzing time spent in key areas, such as near the patient’s bed or medical equipment.  
 - Providing insights into workflow efficiency to enhance hospital resource allocation and patient care strategies.
-- 
+  
 ## How It Works  
 
 1. **Video Processing**  
