@@ -40,9 +40,7 @@ The following image shows an example of a generated heatmap overlaid on a patien
 
 This analysis can provide valuable insights into the efficiency and effectiveness of nurse-patient interactions:  
 
-- **Patient Safety**: Ensuring that nurses spend adequate time attending to critical patients.  
 - **Workflow Optimization**: Identifying inefficient movement patterns to enhance hospital procedures.  
-- **Resource Allocation**: Determining whether medical staff are distributed efficiently in emergency situations.  
 - **Training and Evaluation**: Providing data-driven feedback to improve nurse response times and overall patient care.  
 
 ## Sample Video  
