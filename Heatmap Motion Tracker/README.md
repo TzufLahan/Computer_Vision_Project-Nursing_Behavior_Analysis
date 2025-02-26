@@ -49,6 +49,12 @@ A sample video showcasing the results of the heatmap analysis can be included he
 
 https://github.com/user-attachments/assets/2d0ecf2e-b836-4796-a880-03cefde00129
 
+## Sample GIF  
+
+Here is a sample of the motion heatmap in action:
+
+![Image](https://github.com/user-attachments/assets/bf0c155a-4480-4d9a-b09b-6cbc54672068)
+
 ## Contributors  
 
 This project was developed as part of a data-driven research initiative using Python and OpenCV. 
