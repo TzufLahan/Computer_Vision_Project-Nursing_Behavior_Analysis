@@ -4,7 +4,7 @@
 
 Heatmap motion analysis was developed to analyze and visualize nurse movement patterns in an emergency room setting. By processing video footage from patient rooms, the system generates heatmaps that highlight the frequency and intensity of nurse presence around the patient.  
 
-The goal of this project is to gain insights into nurse-patient interactions, assess response times, and identify behavioral patterns that could contribute to improving patient care and hospital workflow efficiency.  
+The goal of this project is to gain insights into nurse-patient interactions and identify behavioral patterns that could contribute to improving patient care and hospital workflow efficiency.  
 
 ## Purpose and Motivation  
 
