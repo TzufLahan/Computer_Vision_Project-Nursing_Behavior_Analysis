@@ -46,11 +46,6 @@ https://github.com/user-attachments/assets/88233860-748d-474a-90fe-9764844cfb39
 https://github.com/user-attachments/assets/2c3b3132-8b33-40fb-9ce3-286aed13faf3
 
 
-
-## Notes
-- The script supports interactive region selection for better accuracy.
-- Press `q` or `ESC` during video processing to exit.
-
 ## License
 This project is for research purposes and follows the applicable data privacy policies.
 
