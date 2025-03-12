@@ -25,7 +25,53 @@ The repository consists of multiple components, each focusing on a different asp
 3. **Data Output**:
    - Results are stored in structured **CSV files**.
    - Reports include **eye contact duration, happiness percentage, movement heatmaps, and physical contact analysis**.
+   
+# Video Collection
+A collection of all key video demonstrations for this project.
 
+## Module Demonstrations
+Here you can see previews of each module in action, showcasing the various detection and recognition capabilities.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Eye Contact Detection</h3>
+      <p align="center">
+        <video src="https://github.com/user-attachments/assets/5c2840de-1b42-4473-bcce-2321ac52b2f0" width="400" height="300" controls></video>
+      </p>
+      <p align="center">Eye contact tracking system</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Face Emotion Recognition</h3>
+      <p align="center">
+        <video src="https://github.com/user-attachments/assets/112aad8e-216b-4e52-8725-7c7883da9986" width="400" height="300" controls></video>
+      </p>
+      <p align="center">Real-time emotion detection</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Heatmap Motion Tracker</h3>
+      <p align="center">
+        <video src="https://github.com/user-attachments/assets/2d0ecf2e-b836-4796-a880-03cefde00129" width="400" height="300" controls></video>
+      </p>
+      <p align="center">Movement heatmap visualization</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Physical Contact Detection</h3>
+      <p align="center">
+        <video src="https://github.com/user-attachments/assets/88233860-748d-474a-90fe-9764844cfb39" width="400" height="300" controls></video>
+      </p>
+      <p align="center">Physical interaction detection</p>
+    </td>
+  </tr>
+</table>
+
+## Notes
+
+- All videos show real-time processing capabilities
+- Each module can be used independently or as part of the integrated system
+- For technical details on each module, please refer to their individual documentation
 ## Technologies Used
 - **Python 3.7+**
 - **OpenCV** – Video processing and computer vision tasks
