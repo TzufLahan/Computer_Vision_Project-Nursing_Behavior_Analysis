@@ -30,7 +30,7 @@ In emergency and critical care settings, analyzing nurse workflows is essential 
    - Applies a color-mapped overlay to highlight areas with the highest nurse activity.  
    - Superimposes the heatmap on the original video frame for easy visualization.  
 
-## Heatmap Example  
+## Heatmap Example 
 
 The following image shows an example of a generated heatmap overlaid on a patient room. Areas with high activity are shown in warmer colors (yellow/red), while low-activity areas remain cooler (blue).  
 
@@ -48,6 +48,8 @@ This analysis can provide valuable insights into the efficiency and effectivenes
 A sample video showcasing the results of the heatmap analysis can be included here:  
 
 https://github.com/user-attachments/assets/2d0ecf2e-b836-4796-a880-03cefde00129
+
+![Image](https://github.com/user-attachments/assets/caec137c-054a-4596-baee-dbc776e08919)
 
 ## Sample GIF  
 
