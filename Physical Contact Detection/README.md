@@ -41,6 +41,9 @@ Demonstration
 
 To better understand the system, watch the demonstration video:
 
+https://github.com/user-attachments/assets/88233860-748d-474a-90fe-9764844cfb39
+
+https://github.com/user-attachments/assets/2c3b3132-8b33-40fb-9ce3-286aed13faf3
 
 
 
