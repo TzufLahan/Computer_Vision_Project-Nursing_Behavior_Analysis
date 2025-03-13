@@ -1,7 +1,7 @@
 # Facial Emotion Recognition in Videos
 
 ## Overview
-This project detects facial emotions, with a focus on **happiness detection**, in recorded videos. The system uses deep learning-based facial expression recognition to analyze emotions frame by frame and log happiness duration.
+This section detects facial emotions, with a focus on **happiness detection**, in recorded videos. The system uses deep learning-based facial expression recognition to analyze emotions frame by frame and log happiness duration.
 
 ## How It Works
 The system processes video frames using the **FER (Facial Expression Recognition) library**, detecting emotions in real-time. It focuses on the happiness score for each detected face, tracking how long a person maintains a happy expression. The results are stored in a CSV file for further analysis.
