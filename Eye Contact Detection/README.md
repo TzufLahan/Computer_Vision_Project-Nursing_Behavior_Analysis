@@ -1,7 +1,7 @@
 # Eye Contact Detection in Videos
 
 ## Overview
-This project analyzes eye contact between nurses and patients in recorded videos. Using computer vision techniques, the system detects when a nurse makes eye contact with a patient based on gaze direction and face alignment.
+This Section analyzes eye contact between nurses and patients in recorded videos. Using computer vision techniques, the system detects when a nurse makes eye contact with a patient based on gaze direction and face alignment.
 
 ## How It Works
 The system processes video frames using MediaPipe to detect facial landmarks. It calculates gaze direction using key points from the eyes and nose, then determines whether the gaze aligns with the selected patient region. The script tracks the duration of eye contact and logs the results in a CSV file for further analysis.
