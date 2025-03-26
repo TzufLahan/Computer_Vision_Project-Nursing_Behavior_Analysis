@@ -1,7 +1,7 @@
 # Automated Empathy Analysis in Nursing Simulations
 
 ## Overview
-This project aims to analyze empathy in nursing simulations by automatically detecting key behavioral indicators, including eye contact, physical touch, facial expressions, and motion patterns. Using computer vision and machine learning techniques, the system processes video recordings to assess empathetic behaviors in a structured and quantifiable manner.
+The project aims to analyze empathy in nursing simulations by automatically detecting key behavioral indicators, including eye contact, physical touch, facial expressions, and motion patterns. Using computer vision and machine learning techniques, the system processes video recordings to assess empathetic behaviors in a structured and quantifiable manner.
 
 ## Motivation
 Empathy is a crucial aspect of high-quality patient care, significantly impacting patient satisfaction and medical outcomes. Traditional assessment methods rely on subjective evaluation. This project introduces an automated framework to enhance the assessment and training of nursing students, providing objective and data-driven insights into their empathetic behavior.
